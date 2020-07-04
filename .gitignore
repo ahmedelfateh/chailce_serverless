@@ -1,0 +1,4 @@
+.vscode
+.chalice/deployments/
+.chalice/venv/
+
